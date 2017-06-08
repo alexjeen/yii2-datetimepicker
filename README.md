@@ -1,5 +1,18 @@
 # Yii2 DateTimePicker widget
 
+### Update your Composer JSON to:
+
+"alexjeen/yii2-datetimepicker": "dev-master",
+
+And add:
+
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/alexjeen/yii2-datetimepicker"
+    }
+],
+
 ### Описание
 
 Виджет DateTimePicker ( http://xdsoft.net/jqplugins/datetimepicker ) для Yii2
